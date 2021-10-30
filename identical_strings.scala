@@ -1,7 +1,7 @@
 
 import scala.collection.mutable.HashMap
 
-object str extends App {
+object identical_strings extends App {
 
   def foo(string_1: String, string_2: String): Boolean = {
     val L1 = string_1.toList
